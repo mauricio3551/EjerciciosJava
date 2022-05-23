@@ -19,7 +19,7 @@ import java.util.Map;
 public class Main {
     public static void main(String[] args){
         Empleado emp1 = new Empleado("mauricio","gutierrez",34656981,4,1000);
-        Empleado emp2 = new Empleado("guadalupe","acosta",11111111,5,1500);
+        Empleado emp2 = new Empleado("Pepe","pepito",11111111,5,1500);
         Empleado emp3 = new Empleado("Rodrigo","Nose",22222222,6,500);
         
         Set<Empleado> emp = new HashSet<>();
